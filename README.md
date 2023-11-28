@@ -1,6 +1,2 @@
 <h1 align="center">Hi 👋, I'm Noel</h1>
-<!--
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=noxels&label=Profile%20views&color=0e75b6&style=flat" alt="noxels" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noxels" alt="noxels" /></a> </p-->
-
+<p align="left">As a computational and theoretical physics enthusiast, I thrive on tackling complex problems and always seeking new challenges. With a background in frontend development, I bring a unique perspective to my work, combining my technical skills with my curiosity about the fundamental workings of the universe. </p>
