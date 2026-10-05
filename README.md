@@ -2,6 +2,4 @@ EU-based AI & software engineer with a background in physics. I build and explor
 
 I’m interested in understanding how things work, from models and distributed systems to the underlying mathematics and physics. I care about open source and European digital sovereignty: software we can understand, adapt, and run ourselves, while retaining control over our infrastructure and data.
 
-[LinkedIn](https://www.linkedin.com/in/noel-schwabenland/)
-
-![GitHub Stats Card](https://ghstats.dev/api/card?username=noxels&theme=light&show_ring=false&hide_title=true&border_radius=0)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=noxels&hide_title=true&border_radius=0&hide=issues)
